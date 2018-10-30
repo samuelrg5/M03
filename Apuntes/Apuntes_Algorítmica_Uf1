@@ -1,0 +1,8 @@
+If(condición) evalua a cierto o falso.
+If(variable,comparador(constante/variable) and/or
+comparadores if: <,>,=<,=>,<>,=
+condicion:cierto/falso
+Los nombres de variables deben ser claros i cortos.
+constante:
+           letras= sadasdasd (con comillas)
+           numeros= 123234324 (sin comillas)
